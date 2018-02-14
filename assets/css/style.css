@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.masthead {
+  background-color: #ffc107;
+  height: 30vh;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#search-form {
+  margin-top: 4%;
+}
+
+label {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 10%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#search-keyword {
+  height: 5vh;
+  width: 55%;
+  border-radius: 10%;
+  border: none;
+}
+
+#submit-btn {
+  height: 5vh;
+  width: 10%;
+  border-radius: 6px;
+  border: none;
+  background-color: #2471A3;
+  font-size: 20px;
+  font-family: 'Open Sans', cursive;
+  color: #FFF;
+}
+
+.articleClass {
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Open Sans', cursive;
+  border: 1px solid #2471A3;
+  margin-top: 3%;
+  border-radius: 6px;
+}
